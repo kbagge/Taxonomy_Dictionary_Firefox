@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "The Taxonomy Dictionary",
+  "version": "1.0.3",
+  "description" : "A taxonomy dictionary containing the spelling of all taxa.",
+  "author": "Kristian Bagge",
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "register@kristianbagge.com"
+    }
+  },
+
+
+  "dictionaries": {
+      "eo": "dictionaries/taxonomy.dic"
+  }
+
+
+}
